@@ -16,3 +16,19 @@ Analyze the network traffic in the pcap file, and find the rogue user that was c
 9. What country is the MAC address of the FTP server registered in?
 10. What time was a non-standard folder created on the FTP server on the 20th of April? (hh:mm)
 11. What domain was the user connected to in packet 27300?
+
+## 3. Wireshark - Challenge 3
+1) What service did the attacker use to gain access to the system?
+2) What attack type was used to gain access to the system?(one word)
+3) What was the tool the attacker possibly used to perform this attack?
+4) How many failed attempts were there?
+5) What credentials (username:password) were used to gain access? Refer to shadow.log and sudoers.log.
+6) What other credentials (username:password) could have been used to gain access also have SUDO privileges?
+7) What is the tool used to download malicious files on the system?
+8) How many files the attacker download to perform malware installation?
+9) What is the main malware MD5 hash?
+10) What file has the script modified so the malware will start upon reboot?
+11) Where did the malware keep local files?
+12) What is the main file that used to remove this information from ps.log?
+13) One of the IP’s the malware contacted starts with 17. Provide the full IP
+14) How many files the malware requested from external servers?
