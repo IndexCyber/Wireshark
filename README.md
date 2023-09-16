@@ -11,7 +11,7 @@ Analyze the network traffic in the pcap file, and find the rogue user that was c
 4. How many UDP packets were sent from 192.168.1.26 to 24.39.217.246?
 5. What is the MAC address of the system being investigated in the PCAP?
 6. What was the camera model name used to take picture 20210429_152157.jpg ?
-7. What is the server certificate public key that was used in TLS session...
+7. What is the server certificate public key that was used in TLS session : da4a0000342e4b73459d7360b4bea971cc303ac18d29b99067e46d16cc07f4ff
 8. What is the first TLS 1.3 client random that was used to establish a connection with protonmail.com?
 9. What country is the MAC address of the FTP server registered in?
 10. What time was a non-standard folder created on the FTP server on the 20th of April? (hh:mm)
